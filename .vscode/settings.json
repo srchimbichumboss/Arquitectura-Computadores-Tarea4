@@ -1,0 +1,7 @@
+{
+    "masmtasm.assembler": "MASM",
+    "masmtasm.dosbox.run": "choose",
+    "files.associations": {
+        "*.asm": "assembly"
+    }
+}
